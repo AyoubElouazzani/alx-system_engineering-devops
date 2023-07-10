@@ -1,0 +1,2 @@
+#!/bin/bash
+grid -v "bin" /etc/passwd 
